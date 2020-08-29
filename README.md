@@ -1,2 +1,2 @@
 # socket-examples
-Simple sock module usage examples.
+Simple ```socket``` module usage examples.
